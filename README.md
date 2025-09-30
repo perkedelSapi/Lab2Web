@@ -238,3 +238,4 @@ Kalau ditambah inline:
 <p id="paragraf-1" class="text-paragraf" style="color:green;">Halo Dunia</p>
 ```
 Hasilnya: teks hijau, karena inline paling kuat.
+![9](gambar/9.png)
