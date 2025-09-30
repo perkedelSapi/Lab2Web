@@ -132,7 +132,7 @@ Selanjutnya menambahkan CSS Selector menggunakan ID dan Class Selector. Pada fil
 ![5](gambar/5.png)
 
 # Pertanyaan dan Tugas
-1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
+#### 1. Lakukan eksperimen dengan mengubah dan menambah properti dan nilai pada kode CSS
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 
 Test CSS
@@ -173,7 +173,7 @@ h1 {
 ```
 ![7](gambar/7.png)
 
-2. Apa perbedaan pendeklarasian CSS elemen `h1 {...}` dengan `#intro h1 {...}`? berikan
+#### 2. Apa perbedaan pendeklarasian CSS elemen `h1 {...}` dengan `#intro h1 {...}`? berikan
 penjelasannya!
 - `h1 {…} → berlaku untuk semua elemen <h1> di halaman.`
 
@@ -190,7 +190,7 @@ h1 { color: blue; }
 #intro h1 { color: red; }
 ```
 
-3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
+#### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
 elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
 penjelasan dan contohnya!
 - Urutan prioritasnya:
@@ -214,7 +214,7 @@ Jika di style.css ada:
 p { color: blue; }
 ```
 
-4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
+#### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut
 terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser?
 Berikan penjelasan dan contohnya! `( <p id="paragraf-1" class="text-paragraf"> )`
 
